@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# point crawlers to sitemap
+Sitemap: https://example.com/sitemap.xml
